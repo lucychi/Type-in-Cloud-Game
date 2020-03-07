@@ -1,5 +1,4 @@
 # Type-Game-Web-App
-Type Game Web App
 
 Client
 -	Landing page is a login page. Ask user to login or register.
