@@ -20,4 +20,4 @@ https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/using-lambda-functions.html
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-node
 https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-how-to-use-nodejs
-
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs
