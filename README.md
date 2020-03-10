@@ -17,3 +17,4 @@ Server
 
 Resources:
 https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html
+https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CognitoIdentity.html
