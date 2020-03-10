@@ -16,5 +16,6 @@ Server
 -	Server will be stored in AWS s3 and using AWS Lambda to run whenever client requests it. Or hosting it on an AWS/Azure VM. 
 
 Resources:
+
 https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html
 https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CognitoIdentity.html
